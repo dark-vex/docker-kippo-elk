@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 MAINTAINER Daniele De Lorenzi <daniele.delorenzi@fastnetserv.net>
 
 RUN apt-get update \
